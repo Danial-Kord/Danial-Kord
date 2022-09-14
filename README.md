@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:danial.kordmodanlou@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](mailto:danial.kordmodanlou@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/danial-kord)
 [![](https://img.shields.io/badge/-Website-gray?style=for-the-badge&logo=github&logoColor=black)](https://danial-kord.github.io)
 
 
