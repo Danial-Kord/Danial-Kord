@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:danial.kordmodanlou@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](mailto:danial.kordmodanlou@gmail.com)
+[![](https://img.shields.io/badge/-Website-gray?style=for-the-badge&logo=github&logoColor=black)](https://danial-kord.github.io)
 
 
 # About Me
@@ -42,6 +45,9 @@ I am passionate about computing science, and  I see myself as somebody who loves
 
 
 
+
+
+
 ## My Github information:
 
 
@@ -59,24 +65,6 @@ I am passionate about computing science, and  I see myself as somebody who loves
 
 
 
-## Contact Me
-<div align="center">
-        <a href="https://www.linkedin.com/in/danial-kord/">
-            <img alt="Danial Kordmodanlou's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
-        </a>
-        <a href="mailto:kordmodanloo@gmail.com">
-            <img alt="Danial Kordmodanlou's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
-        </a>
-        <a href="https://danial-kord.github.io">
-            <img alt="Danial Kordmodanlou's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
-        </a>
-</div>
-
-<p align=center>
-<br>
-    <img src="https://komarev.com/ghpvc/?username=Danial-Kord&style=for-the-badge&label=PROFILE+VIEWS&color=blue">
-</p>
-
 
 
 <!--
@@ -93,3 +81,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align=center>
+<br>
+    <img src="https://komarev.com/ghpvc/?username=Danial-Kord&style=for-the-badge&label=PROFILE+VIEWS&color=blue">
+</p>
