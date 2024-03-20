@@ -6,8 +6,8 @@
 
 # About Me
 
-My name is Danial Kordmodanlou. I graduated with a B.Sc degree in **Computer Engineering** from Amirkabir University of Technology (AUT).\
-I love programming and learning new things! My primary skills and programming languages are Java, C#, Python, Unity3D, Deep Learning, and GANs. I am presently concentrating on learning more about Artificial Intelligence(especially Computer Vision). I am also interested in AR and VR applications. \
+My name is Danial Kordmodanlou. I am currently studying graduate program in **Computer Science** at York University, Toronto.\
+I love programming and learning new things! My primary skills and programming languages are C#, Unity3D, Java, Python, and Deep Learning. I am presently concentrating on learning more about Artificial Intelligence(especially Computer Vision). I am also interested in AR and VR applications. \
 I am passionate about computing science, and  I see myself as somebody who loves working on challenging problems and coming up with creative solutions!
 
 
