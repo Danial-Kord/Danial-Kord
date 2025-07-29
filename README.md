@@ -55,7 +55,7 @@ I am passionate about computing science, and  I see myself as somebody who loves
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danial-Kord&show_icons=true&theme=dracula&count_private=true&" alt="Danial Kordmodanlou's Github stat" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Kord&theme=dracula" alt="Danial Kordmodanlou stat" /><br />
+  <img src="https://streak-stats.demolab.com/?user=Danial-Kord&theme=dracula" alt="Danial Kordmodanlou stat" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Kord&layout=compact&theme=dracula&langs_count=12"/>
 <!-- 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=Danial-Kord&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/Danial-Kord)
