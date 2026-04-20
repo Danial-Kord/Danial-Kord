@@ -5,15 +5,16 @@
  
  
 # About Me
-
+ 
 My name is Danial Kordmodanlou. I'm doing my **Master's in Computer Science** at York University, Toronto (GPA: 4.0/4.0).\
 I love programming and learning new things! I work across **Machine Learning & AI** (Computer Vision, LLMs, Agentic AI), **Full Stack Development** (web apps, REST APIs, cloud deployment), and **Game Development** (Unity3D, multiplayer systems, VR/AR).\
-I am passionate about computing science and I see myself as somebody who loves working on challenging problems and coming up with creative solutions! 
+I am passionate about computing science and I see myself as somebody who loves working on challenging problems and coming up with creative solutions!
+ 
  
  
 # My Skills
  
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,unity,tensorflow,pytorch,opencv,git,django,docker,bash,dotnet,redis,mysql,vscode,pycharm,idea&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,unity,java,pytorch,tensorflow,git,docker,django,dotnet,cpp,c,opencv,mysql,redis,bash,vscode,pycharm,idea&perline=10)](https://skillicons.dev)
  
  
 ## My Github information:
@@ -27,4 +28,3 @@ I am passionate about computing science and I see myself as somebody who loves w
 <br>
     <img src="https://komarev.com/ghpvc/?username=Danial-Kord&style=for-the-badge&label=PROFILE+VIEWS&color=blue">
 </p>
- 
